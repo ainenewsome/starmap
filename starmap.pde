@@ -1,7 +1,7 @@
 // Aine Newsome
 // C14329846
 
-ArrayList<STAR> star_arraylist = new ArrayList<STAR>();;
+ArrayList<STAR> star_arraylist = new ArrayList<STAR>();; // declaring a STAR array list
 
 void setup(){
   
@@ -15,8 +15,7 @@ class STAR {
     
   }
   
-  
-}
+} // end class STAR
 
 
 void loadData(){
@@ -33,4 +32,5 @@ void printStars(){
   
 }
 
+//end void
 

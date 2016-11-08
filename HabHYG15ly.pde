@@ -1,5 +1,6 @@
 
-  int grid = 50; 
+int grid = 50; 
+
 size (800,800);
 
 for (int i = 0; i < height; i+=grid) {
