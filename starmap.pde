@@ -11,6 +11,10 @@ void setup(){
 }
 
 class STAR {
+  void toString{
+    
+  }
+  
   
 }
 
